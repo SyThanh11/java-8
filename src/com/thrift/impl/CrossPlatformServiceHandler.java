@@ -15,7 +15,7 @@ public class CrossPlatformServiceHandler implements CrossPlatformService.Iface {
     @Override
     public CrossPlatformResource get(int id) throws InvalidOperationException, TException {
         if (resources == null) {
-            throw new InvalidOperationException();
+            throw new InvalidOperationException(404, "Resource not found!");
         }
 
         return resources.stream()

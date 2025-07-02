@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f068739a-2189-4840-b470-71e5d7f07a1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libthrift_0_16_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cross_platform.thrift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thrift/impl/CrossPlatformServiceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thrift/impl/CrossPlatformServiceHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thrift/impl/CrossPlatformServiceServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thrift/impl/CrossPlatformServiceHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thrift/impl/CrossPlatformServiceHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

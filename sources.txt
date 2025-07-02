@@ -1,0 +1,7 @@
+gen-java/com/thrift/impl/CrossPlatformService.java
+gen-java/com/thrift/impl/CrossPlatformResource.java
+gen-java/com/thrift/impl/InvalidOperationException.java
+src/com/thrift/impl/CrossPlatformServiceServer.java
+src/com/thrift/impl/CrossPlatformServiceHandler.java
+src/com/thrift/impl/CrossPlatformServiceClient.java
+src/Main.java
