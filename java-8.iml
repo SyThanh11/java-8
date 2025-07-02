@@ -10,5 +10,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="libthrift-0.16.0" level="project" />
     <orderEntry type="library" name="slf4j-api-1.7.36" level="project" />
+    <orderEntry type="library" name="javax.servlet-api-3.1.0" level="project" />
+    <orderEntry type="library" name="jetty-http-9.4.53.v20231009" level="project" />
+    <orderEntry type="library" name="jetty-security-9.4.53.v20231009" level="project" />
   </component>
 </module>
